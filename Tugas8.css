@@ -1,0 +1,33 @@
+body {
+  background-image: url(image/slider.jpg);
+
+  background-size: cover;
+}
+
+.satu {
+  width: 710px;
+  height: 370px;
+  background-image: url(image/avocado.jpg);
+  background-repeat: repeat-y;
+  border: 1px solid rgb(0, 0, 0);
+  overflow: scroll;
+  color: blue;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  text-align: right;
+  background-color: white;
+}
+
+.dua {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: rgb(0, 148, 37);
+  text-align: left;
+}
+.tiga {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: rgb(190, 0, 0);
+  text-align: right;
+}
